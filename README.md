@@ -7,5 +7,5 @@ Files include both [Blender](https://www.blender.org/) **.blend** design files a
 ### [HeadBar](HeadBar/)
 The head bar should be placed horizontally on the mouse's skull and secured with a firm cement such as MetaBond. The centering tab is not necessary and only included to make aligning with the midline slightly easier. Without the tab the bar can be machined easily using 2mm x 2mm stock aluminum or another metal  
 
-![Head Bar Image](HeadBar/HeadBar.png | height=200)
+<img src="HeadBar/HeadBar.png" alt="Head bar" width="200" />
 
