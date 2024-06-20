@@ -1,5 +1,5 @@
 # MouseHeadFix
 Equipment for lab mouse experiments facilitated by head fixation  
 
-[HeadBar](Headbar/)
+[HeadBar](HeadBar/)
 ![Head Bar Image](HeadBar/HeadBar.png)
