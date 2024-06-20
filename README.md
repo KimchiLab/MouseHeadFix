@@ -2,7 +2,7 @@
 Equipment for lab mouse experiments facilitated by head fixation  
 
 <img src="Images/MouseHeadFix.png" alt="Illustration of head-fixed mouse" width="400" />
-Image couresty of Kirsty Erickson (Cody Siciliano lab)
+*Image courtesy of Kirsty Erickson (Cody Siciliano lab)*
 
 ### Files
 Files include both [Blender](https://www.blender.org/) **.blend** design files as well as exported **.STL** files for 3D printing. These files have been printed previously on a FlashForge Creator Pro in Black PLA, but should be printable on many other 3D printers. We have typically used them on an optical breadboard platform in which optical mounts are used to secure the platform, tunnel, and head bar holders.
